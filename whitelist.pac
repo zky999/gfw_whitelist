@@ -56,6 +56,7 @@ var RULES = [
     ],
     //custom-list
     [
+		".fiverr.com",
 		".lastpass.com",
 		".pps.tv",
 		".aliyuncdn.com",
