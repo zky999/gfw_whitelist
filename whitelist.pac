@@ -64,7 +64,6 @@ var RULES = [
 		".wechat.com",
 		".ssl-images-amazon.com",
 		".edgesuite.net",
-		".icloud.com",
 		".akamaihd.net",
 		".amznxslt.com",
 		".cdn-apple.com",
